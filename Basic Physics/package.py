@@ -68,7 +68,7 @@ class BuildExe:
         self.icon_file = None
  
         #Extra files/dirs copied to game
-        self.extra_datas = [""]
+        self.extra_datas = []
         
  
         #Extra/excludes python modules
