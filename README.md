@@ -1,10 +1,10 @@
-# Bouncy-Ball
-Simple physics simulation utilizing pygame and a pre-made drawing class. Also compiled for windows.
+# Pygame-Demos
+A Bundle of educational demos created in pygame and additionally compiled for Windows to eradicate python dependancy.
 
 
--- The Compiled Version is in the Dist folder -- (A Windows Executable)
+-- The Compiled Versions are in their respective project folders. -- (Windows executables)
 
--- py2exe script used for Windows compilation. --
+-- py2exe script "package" is used for Windows compilation. --
 
--- Utilizing python 2.7.9 , usage of IDLE recommended --
+-- Utilizing python 2.7 and pygame 1.9 , usage of IDLE recommended. --
 
